@@ -5,7 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'canyon': "url('assets/GrandCanyon.jpg')",
+        'escocia': "url('assets/Escocia.jfif')",
+        'china': "url('assets/Muralha.jpg')",
+        'aruba': "url('assets/Aruba.jpg')",
+      }
+    },
   },
   plugins: [],
 }
