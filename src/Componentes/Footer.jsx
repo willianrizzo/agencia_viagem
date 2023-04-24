@@ -7,9 +7,9 @@ import {FaWhatsapp} from 'react-icons/fa'
 
 function Footer(){
     return(
-        <div className="bg-gray-700 w-full h-auto m-auto ">
+        <div className="bg-gray-700 w-full h-44 m-auto ">
             <div className="m-auto w-2/5 text-center">
-                <p className="text-white py-5">Siga-nos em nossas redes sociais!</p>
+                <p className="text-white py-6">Siga-nos em nossas redes sociais!</p>
             </div>
             <div className=" flex gap-24 justify-center  text-center">
                 <AiFillInstagram className='text-4xl invert'/>
