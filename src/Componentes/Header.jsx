@@ -13,7 +13,7 @@ function Header(){
                 <Link to='/china' className='font-normal text-lg hover:scale-x-110 duration-100'>Muralhas da China</Link>
                 <Link to='/aruba' className='font-normal text-lg hover:scale-x-110 duration-100'>Aruba</Link>
                 <input className='bg-gray-200 rounded-2xl p-1' type="search" />
-                <img className='w-8 h-8' src={Lupa} alt="" />
+                <img className='w-7 h-7' src={Lupa} alt="" />
             </div>
         </div>
     )
