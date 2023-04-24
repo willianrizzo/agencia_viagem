@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from "../assets/imagens/viagens.jpg"
+import Logo from "../assets/viagens.jpg"
 
 const Details = (props) => {
   return (

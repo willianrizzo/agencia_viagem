@@ -1,6 +1,5 @@
 import React from 'react'
-import CanyonImg from "../assets/imagens/GrandCanyon.jpg"
-import Details from '../components/Details'
+import Details from '../Componentes/Details'
 
 function Canyon() {
   return (
